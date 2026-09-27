@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function HomeNew {
+export default function ANHLONG {
   return (
     <div className="flex flex-col flex-1 items-center  bg-zinc-50 font-sans dark:bg-black">
       <main className="flex flex-1 w-full max-w-3xl flex-col 287136187263817263817623871628376128376182763items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
